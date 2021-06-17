@@ -1,16 +1,5 @@
 # flutter_annotation
 
-A new Flutter project.
+## 參考連結
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter系列：4.依照註釋的程式碼產生應用範例](https://segmentfault.com/a/1190000018501092)
