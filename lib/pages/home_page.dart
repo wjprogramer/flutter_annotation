@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_annotation/components/global.dart';
 import 'package:flutter_annotation/libraries/todo/todo.dart';
+import 'package:my_mark/my_mark.dart';
+
+@Mark(name: "hello")
+class MarkDemo { }
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.3
+  my_mark:
+    path: ./my_local_packages/my_mark
 
 dev_dependencies:
   flutter_test:
