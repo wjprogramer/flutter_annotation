@@ -1,0 +1,13 @@
+targets:
+  $default:
+    builders:
+      my_mark|mark_builder:
+        enabled: true
+
+builders:
+  mark_builder:
+    import: 'package:my_mark/src/builder.dart'
+    builder_factories: ['markBuilder']
+    build_extensions: { '.dart': ['.mark.dart'] }
+    auto_apply: root_package
+    build_to: source
